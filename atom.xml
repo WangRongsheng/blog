@@ -3,11 +3,11 @@
   <title>王荣胜</title>
   
   <subtitle>越努力越幸运</subtitle>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="https://wangrongsheng.github.io/blog/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://wangrongsheng.github.io/blog/"/>
   <updated>2020-08-30T13:46:17.494Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://wangrongsheng.github.io/blog/</id>
   
   <author>
     <name>Rongsheng Wang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/08/30/hello-world/"/>
-    <id>http://yoursite.com/2020/08/30/hello-world/</id>
+    <link href="https://wangrongsheng.github.io/blog/2020/08/30/hello-world/"/>
+    <id>https://wangrongsheng.github.io/blog/2020/08/30/hello-world/</id>
     <published>2020-08-30T13:46:17.494Z</published>
     <updated>2020-08-30T13:46:17.494Z</updated>
     
