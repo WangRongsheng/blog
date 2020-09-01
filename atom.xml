@@ -6,7 +6,7 @@
   <link href="https://wangrongsheng.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://wangrongsheng.github.io/blog/"/>
-  <updated>2020-09-01T08:47:03.562Z</updated>
+  <updated>2020-09-01T09:01:43.797Z</updated>
   <id>https://wangrongsheng.github.io/blog/</id>
   
   <author>
@@ -21,12 +21,12 @@
     <link href="https://wangrongsheng.github.io/blog/2020/09/01/%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B/"/>
     <id>https://wangrongsheng.github.io/blog/2020/09/01/%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B/</id>
     <published>2020-09-01T08:21:13.000Z</published>
-    <updated>2020-09-01T08:47:03.562Z</updated>
+    <updated>2020-09-01T09:01:43.797Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h1><p>对于一个机器学习问题，数据和特征决定了结果的上限，而模型、算法的选择及优化则是逐步去接近这个上限的。</p><p>特征工程，顾名思义，是对原始数据进行一系列的工程处理，将其提炼为特征，作为输入，供给算法和模型使用</p><a id="more"></a><p>常用的两种数据类型：</p><ul><li><p>结构化数据。</p></li><li><p>非结构化数据。</p></li></ul>]]></content>
+    <content type="html"><![CDATA[<h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>对于一个机器学习问题，数据和特征决定了结果的上限，而模型、算法的选择及优化则是逐步去接近这个上限的。</p><p>特征工程，顾名思义，是对原始数据进行一系列的工程处理，将其提炼为特征，作为输入，供给算法和模型使用</p><a id="more"></a><p>常用的两种数据类型：</p><ul><li><p>结构化数据。</p></li><li><p>非结构化数据。</p></li></ul>]]></content>
     
     
-    <summary type="html">&lt;h1 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;引言&lt;/h1&gt;&lt;p&gt;对于一个机器学习问题，数据和特征决定了结果的上限，而模型、算法的选择及优化则是逐步去接近这个上限的。&lt;/p&gt;
+    <summary type="html">&lt;h2 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;引言&lt;/h2&gt;&lt;p&gt;对于一个机器学习问题，数据和特征决定了结果的上限，而模型、算法的选择及优化则是逐步去接近这个上限的。&lt;/p&gt;
 &lt;p&gt;特征工程，顾名思义，是对原始数据进行一系列的工程处理，将其提炼为特征，作为输入，供给算法和模型使用&lt;/p&gt;</summary>
     
     
